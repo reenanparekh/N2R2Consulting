@@ -574,8 +574,8 @@
     <h2 class="section-title">Ready to build a security program<br>your auditors will respect?</h2>
     <p>Book a free 30-minute discovery call. No pitch, no pressure — just a direct conversation about where you are and how we can help.</p>
     <div class="cta-buttons">
-      <a href="mailto:hello@n2r2consulting.com" class="btn-primary">Book a Free Call</a>
-      <a href="mailto:hello@n2r2consulting.com" class="btn-secondary">hello@n2r2consulting.com</a>
+      <a href="mailto:reenanparekh@gmail.com" class="btn-primary">Book a Free Call</a>
+      <a href="mailto:reenanparekh@gmail.com" class="btn-secondary">reenanparekh@gmail.com</a>
     </div>
   </section>
 
